@@ -1,7 +1,10 @@
 ---
 layout: ballerina-inner-page
 title: CLI Commands
-permalink: /learn/cli-commands/
+permalink: /latest/learn/cli-commands/
+redirect_from:
+  - /learn/cli-commands/
+  - /v1-1/learn/cli-commands/
 ---
 
 # CLI Commands
@@ -65,7 +68,7 @@ These everyday commands are your best friends! They address the very basics of p
 </tr>
 <tr>
 <td class="cCommand">format</td>
-<td class="cDescription">Format Ballerina source files as per the <a href="/learn/style-guide">Ballerina Style Guide</a>.</td>
+<td class="cDescription">Format Ballerina source files as per the <a href="/latest/learn/style-guide">Ballerina Style Guide</a>.</td>
 </tr>
 </table>
 
@@ -93,7 +96,7 @@ Ballerina Central is how you share Ballerina modules with others in a safe, secu
 
 ## Manage projects
 
-Ballerina projects are the way to organize real world Ballerina development tasks. Learn more about it in <a href="/learn/how-to-structure-ballerina-code">How to Structure Ballerina Code</a>.
+Ballerina projects are the way to organize real world Ballerina development tasks. Learn more about it in <a href="/latest/learn/how-to-structure-ballerina-code">How to Structure Ballerina Code</a>.
 
 <table class="cComandTable">
 <tr>
@@ -115,7 +118,7 @@ These powerful supporting tools extend Ballerina to various ecosystem technologi
 </tr>
 <tr>
 <td class="cCommand">openapi</td>
-<td class="cDescription">This is the OpenAPI (Swagger) stub/skeleton generation tool. For more information, see <a href="/learn/how-to-use-openapi-tools">Ballerina OpenAPI Tools</a>.</td>
+<td class="cDescription">This is the OpenAPI (Swagger) stub/skeleton generation tool. For more information, see <a href="/latest/learn/how-to-use-openapi-tools">Ballerina OpenAPI Tools</a>.</td>
 </tr>
 <tr>
 <td class="cCommand">grpc</td>
